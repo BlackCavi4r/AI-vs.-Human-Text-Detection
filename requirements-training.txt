@@ -1,0 +1,5 @@
+-r requirements.txt
+gensim
+jupyter
+nbconvert
+ipykernel
