@@ -1,5 +1,7 @@
 # Project 1 | AI vs. Human Text Detection
+
 https://ai-vs-human-text-detection-ocwenwd28inzfhzhpkxajg.streamlit.app/
+
 This is my Project 1 app for detecting whether a text sample looks human-written or AI-written.
 
 The app lets a user paste text or upload a PDF, Word document, or TXT file. Then the user can choose one of the trained models and get a prediction, an AI score, a human score, text statistics, a simple explanation, model comparison, and a downloadable report.
