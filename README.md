@@ -1,4 +1,4 @@
-# Project 1 — AI vs. Human Text Detection
+# Project 1 | AI vs. Human Text Detection
 
 This is my Project 1 app for detecting whether a text sample looks human-written or AI-written.
 
